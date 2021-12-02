@@ -6,7 +6,7 @@ namespace polinka
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет, Полли");
+            Console.WriteLine("Hello POLINKA!");
         }
     }
 }
